@@ -25,6 +25,10 @@ The temperature table comes from our open dataset, [Sauna Traditions of the Worl
 
 This guide is general information, not medical advice.
 
+## Cite
+
+DIVELUX (2026). *The Sauna Hat Guide: Why Heat Rises and What to Wear on Your Head* (1.0). Zenodo. https://doi.org/10.5281/zenodo.24382674
+
 ## License
 
 Text and diagrams: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share and adapt with credit to DIVELUX and a link to https://diveluxsaunahat.com. Product photographs and the DIVELUX name and logo are © DIVELUX Inc.
